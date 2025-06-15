@@ -1,16 +1,13 @@
-## Hi there 👋
+## Halo, aku Revo! Salam kenal 👋
+_masih pemula kok, sama-sama belajar kita :)_
 
-<!--
-**revo-lusi/revo-lusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bio singkat:
+- 🔭 Mahasiswa LIPIA Jakarta, jurusan I'dad Lughowy (penguatan bahasa Arab)
+- 🌱 Sedang mendalami front-end developer
 
-Here are some ideas to get you started:
+### 📫 Kalo mau kenalan, bisa kesini:
+- [Facebook](https://facebook.com/revo.lusi0)
+- [Telegram](https://t.me/revo_lusi_bot)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡Fun fact: 
+Aku bukan mahasiswa IT
