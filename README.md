@@ -1,6 +1,6 @@
 
-## 🚀 Halo, aku Revo! Salam kenal 👋
-> Hargailah usaha dirimu sekecil apapun, jangan terlalu larut dalam kesalahanmu :)
+## 🚀 Halo, aku Revo, Salam kenal ya! 👋
+> Hargailah usaha dirimu, jangan terlalu larut dalam kesalahan :)
 
 <p align="center">
   <img width="220" src="https://media.tenor.com/s1PTNnkaSQsAAAAj/js-java-script.gif" />
@@ -11,8 +11,13 @@
 - 🌱 Sedang mendalami front-end programming
 - 💻 Mulai ngoding sejak SMA kelas 2/3 (lupa)
 
-### ⚡Fun fact: 
+### ⚡ Fun fact: 
 - Aku bukan mahasiswa IT maupun programmer, coding hanyalah hobi
+
+### 💡 Project-projectku:
+- [Web App Projects](https://revo-lusi.github.io/web-app-projects/)
+- [HTML5 Canvas 2D Projects](https://revo-lusi.github.io/html5-canvas-2d-projects/)
+- [CSS Animation 3D Projects](https://revo-lusi.github.io/css-animation-3d-projects/)
 
 ### 📫 Untuk mengenal lebih lanjut:
 <p align="center">
